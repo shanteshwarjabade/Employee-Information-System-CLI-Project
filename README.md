@@ -9,12 +9,12 @@ The Employee Information System is a command-line application developed using Py
 ======================================================
 # Features
 ======================================================
-* Add new employee details
-* View employee information
-* Search for employees
-* Update employee details
-* Delete employee records
-* Exception handling for invalid input
+1 Add new employee details
+2 View employee information
+3 Search for employees
+4 Update employee details
+5 Delete employee records
+6 Exception handling for invalid input
 ======================================================
 
 # Technologies Used
